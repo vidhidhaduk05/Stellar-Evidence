@@ -1,0 +1,23 @@
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs / build artefacts
+node_modules/
+dist/
+build/
+*.log
+
+# Local screenshots / scratch
+screens/
+*.tmp
